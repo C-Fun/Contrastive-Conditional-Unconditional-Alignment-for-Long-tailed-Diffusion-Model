@@ -1,0 +1,9 @@
+.cache/*
+.data/*
+.logs/*
+.logs_new/*
+.stats/*
+._backup/*
+.utils/.cache/*
+
+./CCUA-DDPM/*
